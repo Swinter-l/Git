@@ -1,0 +1,12 @@
+# WorkBuddy 工作区元数据（含会话/工作日志，不纳入公开仓库）
+.workbuddy/
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
